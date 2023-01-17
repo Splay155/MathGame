@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">UAS MPR</string>
+
+    <string name="heroes_name">Username</string>
+    <string name="description">Date/Time</string>
+    <string name="Score">Score</string>
+    <string-array name="data_name">
+        <item>Rizzrack</item>
+        <item>Silencer</item>
+        <item>Mirana</item>
+        <item>Davion</item>
+        <item>Karroch</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>08/01/2023 15:32:32</item>
+        <item>09/01/2023 08:03:34</item>
+        <item>10/01/2023 10:56:49</item>
+        <item>11/01/2023 12:54:23</item>
+        <item>12/01/2023 23:59:59</item>
+
+      </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/game1</item>
+        <item>@drawable/tes</item>
+        <item>@drawable/game2</item>
+        <item>@drawable/game2</item>
+        <item>@drawable/tes</item>
+    </integer-array>
+    <string-array name="data_score">
+        <item>50</item>
+        <item>30</item>
+        <item>20</item>
+        <item>16</item>
+        <item>14</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
